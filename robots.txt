@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahtuhaomu.chynologic.com/sitemap.xml
